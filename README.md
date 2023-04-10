@@ -9,4 +9,4 @@ Our paper is under the first round review of IEEE T-ITS. Once our paper is forma
 This repo is released under the MIT License. The T-HSTN framework was bulit on top of pytorch.
 
 # Reference
-The "multi_attention_forward.py" code base borrows from https://github.com/Majiker/STAR; The "Transformer_utils" code base borrows from https://github.com/decisionforce/mmTransformer.
+The "multi_attention_forward.py" code base borrows from https://github.com/Majiker/STAR; the "Transformer_utils.py" code base borrows from https://github.com/decisionforce/mmTransformer.
